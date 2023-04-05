@@ -18,6 +18,7 @@ public class filme {
         }
 
     public filme() {
+      //atribuindo
           idFilme = -1;
           titulo = "";
           imdb = 0.F;
